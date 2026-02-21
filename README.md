@@ -1,7 +1,6 @@
-# DSA506Assignment5
-Karina Andronovich
+# DSA506Assignment5 by Karina Andronovich
 
-# Analytics in Action: Evaluating the 2026 New York Knicks
+## Analytics in Action: Evaluating the 2026 New York Knicks
 
 ### Project Overview and Objective
 This dashboard was developed as a comprehensive analytical tool to examine the roster construction and performance efficiency of the New York Knicks during the 2025-2026 season. The primary objective of this project is to identify how offensive workload, measured by field goal attempts and minutes played, translates into scoring efficiency and playmaking impact. By isolating these variables, the dashboard aims to highlight which players are performing as higher value assets (maintaining high efficiency on high volume) versus those who may be overextended in their current roles. 
